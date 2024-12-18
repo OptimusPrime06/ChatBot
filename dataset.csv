@@ -1,0 +1,81 @@
+Statement,Intent,DrowsinessLevel,RepFlag
+How are you feeling today?,question,low,0
+I'm tired.,answer,high,0
+What time is it?,question,low,0
+I don't know.,answer,high,0
+Can you ask me a puzzle?,question,low,0
+"Sure, what has an eye but cannot see?",puzzle,medium,0
+A needle.,answer,medium,0
+What's the capital of France?,question,low,0
+Paris.,answer,low,0
+Can you sing me a song?,question,low,0
+"Twinkle, twinkle, little star...",answer,low,0
+I'm feeling sleepy.,answer,high,0
+My eyes are heavy.,answer,high,0
+I can't keep my eyes open.,answer,high,0
+I'm starting to drift off.,answer,high,0
+Can you ask me a question?,question,low,0
+What color is the sky?,question,low,0
+Blue.,answer,low,0
+What's the square root of 16?,question,medium,0
+4.,answer,medium,0
+Can you tell me a riddle?,question,low,0
+I'm feeling lost.,answer,high,0
+I don't know where I am.,answer,high,0
+Can you help me navigate?,question,high,0
+I'm feeling anxious.,answer,high,0
+Can you calm me down?,question,high,0
+What's the weather like outside?,question,low,0
+It's raining.,answer,low,0
+What's the speed limit on this road?,question,low,0
+I don't know.,answer,high,0
+Can you remind me to take my exit?,question,low,0
+"Sure, I'll remind you.",answer,low,0
+I need coffee.,answer,high,0
+I'm yawning.,answer,high,0
+I can't focus.,answer,high,0
+I'm getting a headache.,answer,high,0
+Can you ask me a puzzle?,question,low,0
+What has keys that open no locks?,puzzle,medium,0
+A piano.,answer,medium,0
+Can you ask me a puzzle?,question,low,0
+What has a neck but no head? A shirt.,puzzle,medium,0
+A shirt.,answer,medium,0
+Can you ask me a puzzle?,question,low,0
+"I have cities, but no houses; I have mountains, but no trees; I have water, but no fish. What am I?",puzzle,medium,0
+A map.,answer,medium,0
+Can you ask me a puzzle?,question,low,0
+"What runs but never walks, has a mouth but never talks, has a bed but never sleeps?",puzzle,medium,0
+A river.,answer,medium,0
+Can you ask me a puzzle?,question,low,0
+What has an eye but cannot see?,puzzle,medium,0
+A needle.,answer,medium,0
+Can you ask me a puzzle?,question,low,0
+What has leaves but no roots?,puzzle,medium,0
+A book.,answer,medium,0
+Can you ask me a puzzle?,question,low,0
+"What always comes, but also always goes?",puzzle,medium,0
+Time.,answer,medium,0
+Can you ask me a puzzle?,question,low,0
+What has a spine but no bones?,puzzle,medium,0
+A book.,answer,medium,0
+Can you ask me a puzzle?,question,low,0
+What has a face but cannot smile?,puzzle,medium,0
+A clock.,answer,medium,0
+"I am often given, but never kept. What am I?",puzzle,medium,0
+A promise,answer,medium,0
+"I have no voice, but I can tell you many stories. What am I?",puzzle,medium,0
+A book,answer,medium,0
+"I have no legs, but I can travel the world. What am I?",puzzle,medium,0
+A book,answer,medium,0
+"I am always coming, but also always going. What am I?",puzzle,medium,0
+Time,answer,medium,0
+"I am often full of dreams, but have no sleep. What am I?",puzzle,medium,0
+A book,answer,medium,0
+What’s the capital of Japan?,question,low,0
+Tokyo.,answer,low,0
+Would you like to take a short break?,question,high,0
+"Not now, I need to keep going.",answer,high,0
+How can you assist me ?, question,low,0
+How can you wake me up ?, question,low,0
+What can you do ?, question,low,0
